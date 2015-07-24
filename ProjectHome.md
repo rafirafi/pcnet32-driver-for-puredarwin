@@ -1,0 +1,1 @@
+This is a driver for the PCnet/PCI II 79C970A" card found in qemu and virtualbox for a puredarwin install
